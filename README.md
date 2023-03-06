@@ -1,4 +1,4 @@
-# Coupling
+#  Coupling Metric for the Ontology
 The coupling algorithm implementation:
 This code to calculate the number of external classes (NEC) and reference to External Classes (REC) 
 The coupling metrics for ontology-based systems are represented in OWL: NEC, REC. 
